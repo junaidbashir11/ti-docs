@@ -29,10 +29,12 @@
 # Result
 
 ```python 
+
 obj={
   portfolioamount:amount,
   portiofolioprofit:profit,
   dataframe:datatable,
   graph:graph
 
-}```
+}
+```
